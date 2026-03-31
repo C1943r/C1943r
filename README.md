@@ -20,7 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | MiTM Attack & Log Analysis       | <a href="https://github.com/C1943r/ARP-Poisoning-Lab---Ettercap-Wireshark/tree/main">ARP Poisoning Lab - Ettercap & Wireshark</a> |
 | SCADA/ICS Network Forensics & Threat Analysis | <a href="https://github.com/C1943r/Industrial-Control-System-Traffic-Analysis-Lab">Industrial Control System Traffic Analysis Lab</a> |
-| LLM Security / Prompt Injection / AI Attack Surface Mapping | LLM Application Security & Prompt Injection Labs |
+| LLM Security / Prompt Injection / AI Attack Surface Mapping | <a href="https://github.com/C1943r/LLM-Application-Security-Prompt-Injection-Labs">LLM Application Security & Prompt Injection Labs</a> |
 | Digital Forsensics & Evidence Analysis | Magnet Axiom Examination Lab |
 | AWS Security & Cloud Monitoring | AWS Security Pillar Implementation Lab |
 | SOC Analysis & SIEM Investigation (Splunk) | SOC Immersion Lab - SIEM & Incident Triage |
@@ -63,4 +63,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 <a href="https://github.com/C1943r/ARP-Poisoning-Lab---Ettercap-Wireshark/tree/main">ARP Poisoning Lab - Ettercap & Wireshark</a><br>
-<a href="https://github.com/C1943r/Industrial-Control-System-Traffic-Analysis-Lab">Industrial Control System Traffic Analysis Lab</a>
+<a href="https://github.com/C1943r/Industrial-Control-System-Traffic-Analysis-Lab">Industrial Control System Traffic Analysis Lab</a><br>
+<a href="https://github.com/C1943r/LLM-Application-Security-Prompt-Injection-Labs">LLM Application Security & Prompt Injection Labs</a><br>
