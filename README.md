@@ -6,13 +6,10 @@
   <img src="https://img.shields.io/badge/-TryHackMe-FF0066?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 
-
-
-I am a senior at St. Philip's College's BAT Cybersecurity with a profound interest in technology and a dedication to solving complex problems. 
+Cybersecurity Senior at St. Philip’s College finishing my Bachelor of Applied Technology. I’ve maintained a 3.7 GPA across three different degree programs in IT.
 
 ## Objective
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am looking to join a Security Operations Center as a Tier 1 Analyst where I can apply an investigative mindset to triage threats, provide clear documentation, and ensure the integrity of the network.
 
 ## Skills
 
@@ -27,41 +24,41 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Low-Level Systems Understanding / Software Reverse Engineering | <a href="https://github.com/C1943r/C-">Systems Programming & Computational Logic Portfolio (C++)</a> |
 | Static and Dynamic Malware Analysis | Automated Malware Behavior Profiling & Sandbox Analysis (In-Progress) |
 
-## Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## Technical Toolset
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Network & Endpoint** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Defender](https://img.shields.io/badge/MS_Defender-00A4EF?style=flat&logo=microsoft&logoColor=white) |
+| **SIEM & Operations** | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white) |
+| **Offensive Security** | ![Metasploit](https://img.shields.io/badge/Metasploit-336699?style=flat&logo=metasploit&logoColor=white) ![Burp_Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white) ![Ettercap](https://img.shields.io/badge/Ettercap-519A39?style=flat&logo=linux&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=flat&logo=nmap&logoColor=white) |
+| **Forensics & Malware** | ![Magnet_Axiom](https://img.shields.io/badge/Magnet_Axiom-0072CE?style=flat) ![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=flat&logo=ghidra&logoColor=white) ![REMnux](https://img.shields.io/badge/REMnux-005A9C?style=flat&logo=linux&logoColor=white) ![Flare_VM](https://img.shields.io/badge/Flare_VM-FF4B4B?style=flat&logo=windows&logoColor=white) |
+| **Virtualization** | ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) |
+| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) ![Parrot](https://img.shields.io/badge/Parrot_OS-33CFFF?style=flat&logo=parrot-security&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) |
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
-## Certifications
+## Certifications & Credentials
 
-### 🔐 Cybersecurity  
-[![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-8b0000?style=flat-square&logo=comptia&logoColor=white)](https://verify.comptia.org?code=V4FM6N9SBMR41NKG) [![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-8b0000?style=flat-square&logo=comptia&logoColor=white)](https://verify.comptia.org?code=1V9GM176MNB114WQ) [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-8b0000?style=flat-square&logo=comptia&logoColor=white)](https://verify.comptia.org?code=SGFG5MK5B2EEQR5N) [![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-8b0000?style=flat-square&logo=comptia&logoColor=white)](https://verify.comptia.org?code=3P5B6FZQ0EE4YTJ2)
+| Category | Credentials & Verifications |
+| :--- | :--- |
+| **Cybersecurity & IA** | [![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-8b0000?style=flat&logo=comptia&logoColor=white)](https://verify.comptia.org?code=SGFG5MK5B2EEQR5N) [![CompTIA CySA+](https://img.shields.io/badge/CompTIA_CySA%2B-8b0000?style=flat&logo=comptia&logoColor=white)](https://verify.comptia.org?code=3P5B6FZQ0EE4YTJ2) ![SAC Cybersecurity](https://img.shields.io/badge/SAC_IA_&_Cybersecurity_I-30363d?style=flat) |
+| **Digital Forensics** | ![MCFE](https://img.shields.io/badge/MCFE_Magnet_Certified_Examiner-0072CE?style=flat) ![SAC Forensics](https://img.shields.io/badge/SAC_Computer_Forensics_I-30363d?style=flat) |
+| **Cloud Security** | [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/verification) |
+| **Systems & Operations** | [![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network%2B-8b0000?style=flat&logo=comptia&logoColor=white)](https://verify.comptia.org?code=1V9GM176MNB114WQ) [![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-8b0000?style=flat&logo=comptia&logoColor=white)](https://verify.comptia.org?code=V4FM6N9SBMR41NKG) ![ITIL v4](https://img.shields.io/badge/ITIL_v4-5CB85C?style=flat) ![PC Pro](https://img.shields.io/badge/PC_Pro_Certified-30363d?style=flat) ![DAU ACQ](https://img.shields.io/badge/DAU_ACQ_1010-30363d?style=flat) |
 
-### ☁️ Cloud  
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-8a5a00?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/verification)
+---
 
-### 🧪 Digital Forensics & Security  
-![MCFE](https://img.shields.io/badge/MCFE-Magnet%20Certified%20Forensics%20Examiner-30363d?style=flat-square&logoColor=white) ![SAC Computer Forensics I](https://img.shields.io/badge/SAC-Computer%20Forensics%20I-30363d?style=flat-square&logoColor=white) ![SAC IA %26 Cybersecurity I](https://img.shields.io/badge/SAC-IA%20%26%20Cybersecurity%20I-30363d?style=flat-square&logoColor=white)
+## Education
 
-### 💻 Additional  
-![PC Pro](https://img.shields.io/badge/PC%20Pro-Certified-30363d?style=flat-square&logoColor=white) ![DAU ACQ 1010](https://img.shields.io/badge/DAU-ACQ%201010-30363d?style=flat-square&logoColor=white) ![ITIL v4](https://img.shields.io/badge/ITIL-v4-30363d?style=flat-square&logoColor=white)
+| Degree Program | Institution | Status |
+| :--- | :--- | :--- |
+| **Bachelor of Applied Technology, Cybersecurity** | St. Philip’s College | **GPA 3.7** \| Expected May 2027 |
+| **Associate of Applied Science, IT Cybersecurity Specialist** | St. Philip’s College | **GPA 3.7** \| Expected May 2026 |
+| **Associate of Applied Science, Computer Information Systems** | San Antonio College | **GPA 3.7** \| Conferred 2023 |
+
+---
 
 ## Projects
 <a href="https://github.com/C1943r/ARP-Poisoning-Lab---Ettercap-Wireshark/tree/main">ARP Poisoning Lab - Ettercap & Wireshark</a><br>
@@ -71,3 +68,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://github.com/C1943r/AWS-Well-Architected-Security-Implementation">AWS Well-Architected Framework: Security Pillar Implementation in Live Environment</a><br>
 <a href="https://github.com/C1943r/SOC-Immersion-Lab---SIEM-Incident-Triage">SOC Immersion Lab - SIEM & Incident Triage</a><br>
 <a href="https://github.com/C1943r/C-">Systems Programming & Computational Logic Portfolio (C++)</a><br>
+
+## Professional Affiliations
+Cyber Tigers, St. Philip's College | ISSA - Alamo Chapter
