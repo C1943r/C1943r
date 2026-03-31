@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| MiTM Attack & Log Analysis       | <a href="https://google.com">ARP Poisoning Lab - Ettercap & Wireshark</a> |
+| MiTM Attack & Log Analysis       | <a href="https://github.com/C1943r/ARP-Poisoning-Lab---Ettercap-Wireshark/tree/main">ARP Poisoning Lab - Ettercap & Wireshark</a> |
 | SCADA/ICS Network Forensics & Threat Analysis | <a href="https://google.com">Industrial Control System Traffic Analysis Lab</a> |
 | LLM Security Testing & Prompt Injection Analysis | Excessive Agency in LLM APIs Lab |
 | Digital Forsensics & Evidence Analysis | Magnet Axiom Examination Lab |
@@ -62,5 +62,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ![PC Pro](https://img.shields.io/badge/PC%20Pro-Certified-30363d?style=flat-square&logoColor=white) ![DAU ACQ 1010](https://img.shields.io/badge/DAU-ACQ%201010-30363d?style=flat-square&logoColor=white) ![ITIL v4](https://img.shields.io/badge/ITIL-v4-30363d?style=flat-square&logoColor=white)
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+<a href="https://github.com/C1943r/ARP-Poisoning-Lab---Ettercap-Wireshark/tree/main">ARP Poisoning Lab - Ettercap & Wireshark</a>
