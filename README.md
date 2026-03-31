@@ -22,7 +22,7 @@ I am looking to join a Security Operations Center as a Tier 1 Analyst where I ca
 | Cloud Security Architecture (AWS) | <a href="https://github.com/C1943r/AWS-Well-Architected-Security-Implementation">AWS Well-Architected Framework: Security Pillar Implementation in Live Environment</a> |
 | SOC Analysis & SIEM Investigation (Splunk) | <a href="https://github.com/C1943r/SOC-Immersion-Lab---SIEM-Incident-Triage">SOC Immersion Lab - SIEM & Incident Triage</a> |
 | Low-Level Systems Understanding / Software Reverse Engineering | <a href="https://github.com/C1943r/C-">Systems Programming & Computational Logic Portfolio (C++)</a> |
-| Static and Dynamic Malware Analysis | Automated Malware Behavior Profiling & Sandbox Analysis (In-Progress) |
+| Static and Dynamic Malware Analysis | <a href="https://github.com/C1943r/Automated-Malware-Behavior-Profiling-Sandbox-Analysis">Automated Malware Behavior Profiling & Sandbox Analysis (In-Progress)</a> |
 
 
 ## Technical Toolset
@@ -68,6 +68,7 @@ I am looking to join a Security Operations Center as a Tier 1 Analyst where I ca
 <a href="https://github.com/C1943r/AWS-Well-Architected-Security-Implementation">AWS Well-Architected Framework: Security Pillar Implementation in Live Environment</a><br>
 <a href="https://github.com/C1943r/SOC-Immersion-Lab---SIEM-Incident-Triage">SOC Immersion Lab - SIEM & Incident Triage</a><br>
 <a href="https://github.com/C1943r/C-">Systems Programming & Computational Logic Portfolio (C++)</a><br>
+<a href="https://github.com/C1943r/Automated-Malware-Behavior-Profiling-Sandbox-Analysis">Automated Malware Behavior Profiling & Sandbox Analysis (In-Progress)</a><br>
 
 ## Professional Affiliations
 Cyber Tigers, St. Philip's College | ISSA - Alamo Chapter
