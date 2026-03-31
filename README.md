@@ -23,7 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | LLM Security / Prompt Injection / AI Attack Surface Mapping | <a href="https://github.com/C1943r/LLM-Application-Security-Prompt-Injection-Labs">LLM Application Security & Prompt Injection Labs</a> |
 | Digital Forsensics & Evidence Analysis | <a href="https://github.com/C1943r/Magnet-Axiom-Examination-Lab">Magnet Axiom Examination Lab</a> |
 | Cloud Security Architecture (AWS) | <a href="https://github.com/C1943r/AWS-Well-Architected-Security-Implementation">AWS Well-Architected Framework: Security Pillar Implementation in Live Environment</a> |
-| SOC Analysis & SIEM Investigation (Splunk) | SOC Immersion Lab - SIEM & Incident Triage |
+| SOC Analysis & SIEM Investigation (Splunk) | <a href="https://github.com/C1943r/SOC-Immersion-Lab---SIEM-Incident-Triage">SOC Immersion Lab - SIEM & Incident Triage</a> |
 | Low-Level Systems Understanding / Software Reverse Engineering | Systems Programming & Computational Logic Portfolio (C++) |
 
 ## Tools
@@ -68,3 +68,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://github.com/C1943r/LLM-Application-Security-Prompt-Injection-Labs">LLM Application Security & Prompt Injection Labs</a><br>
 <a href="https://github.com/C1943r/Magnet-Axiom-Examination-Lab">Magnet Axiom Examination Lab</a><br>
 <a href="https://github.com/C1943r/AWS-Well-Architected-Security-Implementation">AWS Well-Architected Framework: Security Pillar Implementation in Live Environment</a><br>
+<a href="https://github.com/C1943r/SOC-Immersion-Lab---SIEM-Incident-Triage">SOC Immersion Lab - SIEM & Incident Triage</a><br>
