@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/-TryHackMe-FF0066?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 
-Cybersecurity Senior at St. Philip’s College finishing my Bachelor of Applied Technology. I’ve maintained a 3.7 GPA across three different degree programs in IT.
+Cybersecurity Junior at St. Philip’s College finishing my Bachelor of Applied Technology. I’ve maintained a 3.7 GPA across three different degree programs in IT.
 
 ## Objective
 I am looking to join a Security Operations Center as a Tier 1 Analyst where I can apply an investigative mindset to triage threats, provide clear documentation, and ensure the integrity of the network.
