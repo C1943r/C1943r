@@ -9,7 +9,7 @@
 Cybersecurity Junior at St. Philip’s College finishing my Bachelor of Applied Technology. I’ve maintained a 3.7 GPA across three different degree programs in IT.
 
 ## Objective
-I am looking to join a Security Operations Center as a Tier 1 Analyst where I can apply an investigative mindset to triage threats, provide clear documentation, and ensure the integrity of the network.
+I am looking to join a Cyber Threat Intelligence team as an Analyst where I can apply an investigative OSINT mindset to track adversary infrastructure, author clear finished intelligence documentation, and deliver actionable insights to proactively intercept threats.
 
 ## Skills
 
