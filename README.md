@@ -54,7 +54,7 @@ I am looking to join a Security Operations Center as a Tier 1 Analyst where I ca
 
 | Degree Program | Institution | Status |
 | :--- | :--- | :--- |
-| **Bachelor of Applied Technology, Cybersecurity** | St. Philip’s College | **GPA 3.7** \| Expected May 2027 |
+| **Bachelor of Applied Technology, Cybersecurity** | St. Philip’s College | **GPA 3.7** \| Expected December 2027 |
 | **Associate of Applied Science, IT Cybersecurity Specialist** | St. Philip’s College | **GPA 3.7** \| Expected May 2026 |
 | **Associate of Applied Science, Computer Information Systems** | San Antonio College | **GPA 3.7** \| Conferred 2023 |
 
