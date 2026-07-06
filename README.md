@@ -14,7 +14,7 @@ I am looking to join a Cyber Threat Intelligence team as an Analyst where I can 
 ## Skills
 
 | Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
+| :--- | :--- |
 | MiTM Attack & Log Analysis       | <a href="https://github.com/C1943r/ARP-Poisoning-Lab---Ettercap-Wireshark/tree/main">ARP Poisoning Lab - Ettercap & Wireshark</a> |
 | SCADA/ICS Network Forensics & Threat Analysis | <a href="https://github.com/C1943r/Industrial-Control-System-Traffic-Analysis-Lab">Industrial Control System Traffic Analysis Lab</a> |
 | LLM Security / Prompt Injection / AI Attack Surface Mapping | <a href="https://github.com/C1943r/LLM-Application-Security-Prompt-Injection-Labs">LLM Application Security & Prompt Injection Labs</a> |
@@ -22,9 +22,15 @@ I am looking to join a Cyber Threat Intelligence team as an Analyst where I can 
 | Cloud Security Architecture (AWS) | <a href="https://github.com/C1943r/AWS-Well-Architected-Security-Implementation">AWS Well-Architected Framework: Security Pillar Implementation in Live Environment</a> |
 | SOC Analysis & SIEM Investigation (Splunk) | <a href="https://github.com/C1943r/SOC-Immersion-Lab---SIEM-Incident-Triage">SOC Immersion Lab - SIEM & Incident Triage</a> |
 | Low-Level Systems Understanding / Software Reverse Engineering | <a href="https://github.com/C1943r/C-">Systems Programming & Computational Logic Portfolio (C++)</a> |
-| Linux Node Hardening & Edge Deployment | Secure Raspberry Pi ADS-B Flight Feeder Build |
+| Linux Node Hardening & Edge Deployment | <a href="https://github.com/C1943r/Secure-Raspberry-Pi-ADS-B-Flight-Feeder-Build">Secure Raspberry Pi ADS-B Flight Feeder Build</a> |
 | Static and Dynamic Malware Analysis | <a href="https://github.com/C1943r/Automated-Malware-Behavior-Profiling-Sandbox-Analysis">Automated Malware Behavior Profiling & Sandbox Analysis (In-Progress)</a> |
 
+## Honors & Professional Development
+
+**Invited Participant & Merit Scholarship Recipient** – *U.S. Cyber Challenge (USCC)* (July 2026)
+
+* **Awarded fully funded admission** to the elite, invite-only summer cyber camp based on multi-cycle national performance, scoring a 95 on the Winter 2025 Cyber Quests and reinforcing placement in the Spring 2026 challenge.
+* **Engaging in advanced, SANS-aligned training modules** covering penetration testing, packet analysis, and digital forensics, culminating in a national-level Capture the Flag (CTF) competition.
 
 ## Technical Toolset
 
@@ -56,8 +62,18 @@ I am looking to join a Cyber Threat Intelligence team as an Analyst where I can 
 | Degree Program | Institution | Status |
 | :--- | :--- | :--- |
 | **Bachelor of Applied Technology, Cybersecurity** | St. Philip’s College | **GPA 3.7** \| Expected December 2027 |
-| **Associate of Applied Science, IT Cybersecurity Specialist** | St. Philip’s College | **GPA 3.7** \| Expected May 2026 |
-| **Associate of Applied Science, Computer Information Systems** | San Antonio College | **GPA 3.7** \| Conferred 2023 |
+| **Associate of Applied Science, IT Cybersecurity Specialist** | St. Philip’s College | **GPA 3.7** \| May 2026 |
+| **Associate of Applied Science, Computer Information Systems** | San Antonio College | **GPA 3.7** \| December 2023 |
+
+---
+
+## Volunteering & Community Engagement
+
+| Organization | Role / Key Responsibilities |
+| :--- | :--- |
+| Trace Labs | **OSINT Investigator & Community Volunteer**: Conducted open-source intelligence operations for real-world missing persons investigations utilizing SOCMINT, IMINT, and GEOINT methodologies. Analyzed online footprints via advanced search operators and geolocation tools to generate validated, law-enforcement-grade intelligence while maintaining data integrity and strict ethical frameworks. |
+| ARRL Amateur Radio Field Day | **Infrastructure & Field Operations Assistant**: Facilitated rapid-deployment communications setup by erecting, securing, and stabilizing high-frequency antenna systems and portable radio towers for emergency communications testing. |
+| SAMMinistries | **Youth Mentor & Community Volunteer**: Facilitated developmental mentoring for youth and managed library organization to support educational initiatives. Coordinated seasonal logistics for community programs, including high-volume holiday gift coordination and school supply procurement. |
 
 ---
 
@@ -69,6 +85,7 @@ I am looking to join a Cyber Threat Intelligence team as an Analyst where I can 
 <a href="https://github.com/C1943r/AWS-Well-Architected-Security-Implementation">AWS Well-Architected Framework: Security Pillar Implementation in Live Environment</a><br>
 <a href="https://github.com/C1943r/SOC-Immersion-Lab---SIEM-Incident-Triage">SOC Immersion Lab - SIEM & Incident Triage</a><br>
 <a href="https://github.com/C1943r/C-">Systems Programming & Computational Logic Portfolio (C++)</a><br>
+<a href="https://github.com/C1943r/Secure-Raspberry-Pi-ADS-B-Flight-Feeder-Build">Secure Raspberry Pi ADS-B Flight Feeder Build</a><br>
 <a href="https://github.com/C1943r/Automated-Malware-Behavior-Profiling-Sandbox-Analysis">Automated Malware Behavior Profiling & Sandbox Analysis (In-Progress)</a><br>
 
 ## Professional Affiliations
