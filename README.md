@@ -71,7 +71,7 @@ I am looking to join a Cyber Threat Intelligence team as an Analyst where I can 
 
 | Organization | Role / Key Responsibilities |
 | :--- | :--- |
-| Trace Labs | **OSINT Investigator & Community Volunteer**: Conducted open-source intelligence operations for real-world missing persons investigations utilizing SOCMINT, IMINT, and GEOINT methodologies. Analyzed online footprints via advanced search operators and geolocation tools to generate validated, law-enforcement-grade intelligence while maintaining data integrity and strict ethical frameworks. |
+| TraceLabs | **OSINT Investigator & Community Volunteer**: Conducted open-source intelligence operations to assist various law-enforcement agencies in real-world missing persons investigations utilizing SOCMINT, IMINT, and GEOINT methodologies. Analyzed online footprints via advanced search operators and geolocation tools to generate validated, law-enforcement-grade intelligence while maintaining data integrity and strict ethical frameworks. |
 | ARRL Amateur Radio Field Day | **Infrastructure & Field Operations Assistant**: Facilitated rapid-deployment communications setup by erecting, securing, and stabilizing high-frequency antenna systems and portable radio towers for emergency communications testing. |
 | SAMMinistries | **Youth Mentor & Community Volunteer**: Facilitated developmental mentoring for youth and managed library organization to support educational initiatives. Coordinated seasonal logistics for community programs, including high-volume holiday gift coordination and school supply procurement. |
 
