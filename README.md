@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/-TryHackMe-FF0066?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 
-Cybersecurity Junior at St. Philip’s College finishing my Bachelor of Applied Technology. I’ve maintained a 3.7 GPA across three different degree programs in IT.
+Cybersecurity Senior at St. Philip’s College finishing my Bachelor of Applied Technology. I’ve maintained a 3.7 GPA across three different degree programs in IT.
 
 ## Objective
 I am looking to join a Security Operations Center as a SOC Analyst where I can leverage an investigative mindset to analyze network alerts, track malicious infrastructure, and deliver actionable insights to proactively intercept threats.
