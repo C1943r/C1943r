@@ -27,10 +27,14 @@ I am looking to join a Security Operations Center as a SOC Analyst where I can l
 
 ## Honors & Professional Development
 
-**Invited Participant & Merit Scholarship Recipient** – *U.S. Cyber Challenge (USCC)* (July 2026)
+**Invited Participant & Merit Scholar** – *U.S. Cyber Challenge (USCC), a CIS Program* (July 2026)
 
-* **Awarded fully funded admission** to the elite, invite-only summer cyber camp based on multi-cycle national performance, scoring a 95 on the Winter 2025 Cyber Quests and reinforcing placement in the Spring 2026 challenge.
-* **Engaging in advanced, SANS-aligned training modules** covering penetration testing, packet analysis, and digital forensics, culminating in a national-level Capture the Flag (CTF) competition.
+* **Awarded fully funded admission** to the elite, invite-only summer cyber camp based on multi‑cycle national performance in the Winter 2025 and Spring 2026 Cyber Quests.
+* **Exploit Development & Program Analysis:** Developed a remote exploit for a documented CVE by chaining buffer‑overflow techniques (executable stack, ret2libc, 64‑bit); performed static analysis, fuzzing, and symbolic execution on target binaries.
+* **Mobile Device Forensics:** Executed physical, file system, and logical acquisitions of Android/iOS devices using FTK Imager, ADB, and iBackupBot; rooted an Android device and wrote SQLite queries with cross‑format timestamp conversions.
+* **Threat Hunting & Network Forensics:** Conducted hypothesis‑driven threat hunting against a Windows 11 environment and analyzed network evidence using NetFlow/Zeek, the Elastic Stack, and Arkime for full‑packet‑capture analysis.
+* **National CTF Competition:** Competed in the capstone Capture the Flag event, placing **8th of 16** teams nationally.
+
 
 ## Technical Toolset
 
