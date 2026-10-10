@@ -21,6 +21,7 @@ I am looking to join a Security Operations Center as a SOC Analyst where I can l
 | Digital Forsensics & Evidence Analysis | <a href="https://github.com/C1943r/Magnet-Axiom-Examination-Lab">Magnet Axiom Examination Lab</a> |
 | Cloud Security Architecture (AWS) | <a href="https://github.com/C1943r/AWS-Well-Architected-Security-Implementation">AWS Well-Architected Framework: Security Pillar Implementation in Live Environment</a> |
 | SOC Analysis & SIEM Investigation (Splunk) | <a href="https://github.com/C1943r/SOC-Immersion-Lab---SIEM-Incident-Triage">SOC Immersion Lab - SIEM & Incident Triage</a> |
+| Incident Response & Timeline Reconstruction | <a href="https://github.com/C1943r/Phishing-Led-Compromise-Lateral-Movement-IR-Lab/blob/main/README.md">Phishing-Led Compromise & Lateral Movement IR Lab</a> |
 | Low-Level Systems Understanding / Software Reverse Engineering | <a href="https://github.com/C1943r/C-">Systems Programming & Computational Logic Portfolio (C++)</a> |
 | Linux Node Hardening & Edge Deployment | <a href="https://github.com/C1943r/Secure-Raspberry-Pi-ADS-B-Flight-Feeder-Build">Secure Raspberry Pi ADS-B Flight Feeder Build</a> |
 | Static and Dynamic Malware Analysis | <a href="https://github.com/C1943r/Automated-Malware-Behavior-Profiling-Sandbox-Analysis">Automated Malware Behavior Profiling & Sandbox Analysis (In-Progress)</a> |
@@ -88,6 +89,7 @@ I am looking to join a Security Operations Center as a SOC Analyst where I can l
 <a href="https://github.com/C1943r/Magnet-Axiom-Examination-Lab">Magnet Axiom Examination Lab</a><br>
 <a href="https://github.com/C1943r/AWS-Well-Architected-Security-Implementation">AWS Well-Architected Framework: Security Pillar Implementation in Live Environment</a><br>
 <a href="https://github.com/C1943r/SOC-Immersion-Lab---SIEM-Incident-Triage">SOC Immersion Lab - SIEM & Incident Triage</a><br>
+<a href="https://github.com/C1943r/Phishing-Led-Compromise-Lateral-Movement-IR-Lab/blob/main/README.md">Phishing-Led Compromise & Lateral Movement IR Lab</a><br>
 <a href="https://github.com/C1943r/C-">Systems Programming & Computational Logic Portfolio (C++)</a><br>
 <a href="https://github.com/C1943r/Secure-Raspberry-Pi-ADS-B-Flight-Feeder-Build">Secure Raspberry Pi ADS-B Flight Feeder Build</a><br>
 <a href="https://github.com/C1943r/Automated-Malware-Behavior-Profiling-Sandbox-Analysis">Automated Malware Behavior Profiling & Sandbox Analysis (In-Progress)</a><br>
