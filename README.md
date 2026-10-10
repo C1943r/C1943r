@@ -18,11 +18,11 @@ I am looking to join a Security Operations Center as a SOC Analyst where I can l
 | MiTM Attack & Log Analysis       | <a href="https://github.com/C1943r/ARP-Poisoning-Lab---Ettercap-Wireshark/tree/main">ARP Poisoning Lab - Ettercap & Wireshark</a> |
 | SCADA/ICS Network Forensics & Threat Analysis | <a href="https://github.com/C1943r/Industrial-Control-System-Traffic-Analysis-Lab">Industrial Control System Traffic Analysis Lab</a> |
 | LLM Security / Prompt Injection / AI Attack Surface Mapping | <a href="https://github.com/C1943r/LLM-Application-Security-Prompt-Injection-Labs">LLM Application Security & Prompt Injection Labs</a> |
-| Digital Forsensics & Evidence Analysis | <a href="https://github.com/C1943r/Magnet-Axiom-Examination-Lab">Magnet Axiom Examination Lab</a> |
+| Digital Forensics & Evidence Analysis | <a href="https://github.com/C1943r/Magnet-Axiom-Examination-Lab">Magnet Axiom Examination Lab</a> |
 | Cloud Security Architecture (AWS) | <a href="https://github.com/C1943r/AWS-Well-Architected-Security-Implementation">AWS Well-Architected Framework: Security Pillar Implementation in Live Environment</a> |
 | SOC Analysis & SIEM Investigation (Splunk) | <a href="https://github.com/C1943r/SOC-Immersion-Lab---SIEM-Incident-Triage">SOC Immersion Lab - SIEM & Incident Triage</a> |
 | Incident Response & Timeline Reconstruction | <a href="https://github.com/C1943r/Phishing-Led-Compromise-Lateral-Movement-IR-Lab/blob/main/README.md">Phishing-Led Compromise & Lateral Movement IR Lab</a> |
-| Low-Level Systems Understanding / Software Reverse Engineering | <a href="https://github.com/C1943r/C-">Systems Programming & Computational Logic Portfolio (C++)</a> |
+| Low-Level Systems Understanding | <a href="https://github.com/C1943r/C-">Systems Programming & Computational Logic Portfolio (C++)</a> |
 | Linux Node Hardening & Edge Deployment | <a href="https://github.com/C1943r/Secure-Raspberry-Pi-ADS-B-Flight-Feeder-Build">Secure Raspberry Pi ADS-B Flight Feeder Build</a> |
 | Static and Dynamic Malware Analysis | <a href="https://github.com/C1943r/Automated-Malware-Behavior-Profiling-Sandbox-Analysis">Automated Malware Behavior Profiling & Sandbox Analysis (In-Progress)</a> |
 
@@ -30,11 +30,17 @@ I am looking to join a Security Operations Center as a SOC Analyst where I can l
 
 **Invited Participant & Merit Scholar** – *U.S. Cyber Challenge (USCC), a CIS Program* (July 2026)
 
-* **Awarded fully funded admission** to the elite, invite-only summer cyber camp based on multi‑cycle national performance in the Winter 2025 and Spring 2026 Cyber Quests.
+* **Awarded fully funded admission** to the invite-only summer cyber camp based on multi‑cycle national performance in the Winter 2025 and Spring 2026 Cyber Quests.
 * **Exploit Development & Program Analysis:** Developed a remote exploit for a documented CVE by chaining buffer‑overflow techniques (executable stack, ret2libc, 64‑bit); performed static analysis, fuzzing, and symbolic execution on target binaries.
 * **Mobile Device Forensics:** Executed physical, file system, and logical acquisitions of Android/iOS devices using FTK Imager, ADB, and iBackupBot; rooted an Android device and wrote SQLite queries with cross‑format timestamp conversions.
 * **Threat Hunting & Network Forensics:** Conducted hypothesis‑driven threat hunting against a Windows 11 environment and analyzed network evidence using NetFlow/Zeek, the Elastic Stack, and Arkime for full‑packet‑capture analysis.
-* **National CTF Competition:** Competed in the capstone Capture the Flag event, placing **8th of 16** teams nationally.
+* **National CTF Competition:** Competed in the capstone Capture the Flag event.
+
+  
+**Top 2% Global Ranking – [TryHackMe](https://tryhackme.com/p/C1943r)**
+
+- Ranked in the top 2% of users worldwide through hands-on rooms covering SOC analysis, malware analysis, network forensics, and AI security.
+  
 
 
 ## Technical Toolset
@@ -46,7 +52,7 @@ I am looking to join a Security Operations Center as a SOC Analyst where I can l
 | **Threat Hunting & Network Forensics** | ![Elastic_Stack](https://img.shields.io/badge/Elastic_Stack-00BFB3?style=flat&logo=elasticstack&logoColor=white) ![Zeek](https://img.shields.io/badge/Zeek-1E3A5F?style=flat) ![Arkime](https://img.shields.io/badge/Arkime-6B3FA0?style=flat) ![NetFlow](https://img.shields.io/badge/NetFlow-1BA0D7?style=flat&logo=cisco&logoColor=white) |
 | **Offensive Security** | ![Metasploit](https://img.shields.io/badge/Metasploit-336699?style=flat&logo=metasploit&logoColor=white) ![Burp_Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white) ![Ettercap](https://img.shields.io/badge/Ettercap-519A39?style=flat&logo=linux&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=flat&logo=nmap&logoColor=white) |
 | **AI / LLM Security** | ![promptfoo](https://img.shields.io/badge/promptfoo-E5484D?style=flat) ![garak](https://img.shields.io/badge/garak-76B900?style=flat) ![PyRIT](https://img.shields.io/badge/PyRIT-0078D4?style=flat) |
-| **Forensics & Malware** | ![Magnet_Axiom](https://img.shields.io/badge/Magnet_Axiom-0072CE?style=flat) ![Autopsy](https://img.shields.io/badge/Autopsy-2B3A4A?style=flat) ![FTK_Imager](https://img.shields.io/badge/FTK_Imager-A4262C?style=flat) ![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=flat&logo=ghidra&logoColor=white) ![REMnux](https://img.shields.io/badge/REMnux-005A9C?style=flat&logo=linux&logoColor=white) ![Flare_VM](https://img.shields.io/badge/Flare_VM-FF4B4B?style=flat&logo=windows&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
+| **Forensics & Malware** | ![Magnet_Axiom](https://img.shields.io/badge/Magnet_Axiom-0072CE?style=flat) ![Autopsy](https://img.shields.io/badge/Autopsy-2B3A4A?style=flat) ![FTK_Imager](https://img.shields.io/badge/FTK_Imager-A4262C?style=flat) ![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=flat&logo=ghidra&logoColor=white) ![REMnux](https://img.shields.io/badge/REMnux-005A9C?style=flat&logo=linux&logoColor=white) ![Flare_VM](https://img.shields.io/badge/Flare_VM-FF4B4B?style=flat&logo=windows&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat&logo=android&logoColor=white) ![iBackupBot](https://img.shields.io/badge/iBackupBot-8E8E93?style=flat)|
 | **Virtualization** | ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) |
 | **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) ![Parrot](https://img.shields.io/badge/Parrot_OS-33CFFF?style=flat&logo=parrot-security&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-8E8E93?style=flat&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) |
@@ -61,6 +67,7 @@ I am looking to join a Security Operations Center as a SOC Analyst where I can l
 | **Digital Forensics** | ![MCFE](https://img.shields.io/badge/MCFE_Magnet_Certified_Examiner-0072CE?style=flat) ![SAC Forensics](https://img.shields.io/badge/SAC_Computer_Forensics_I-30363d?style=flat) |
 | **Cloud Security** | [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/verification) |
 | **Systems & Operations** | [![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network%2B-8b0000?style=flat&logo=comptia&logoColor=white)](https://verify.comptia.org?code=1V9GM176MNB114WQ) [![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-8b0000?style=flat&logo=comptia&logoColor=white)](https://verify.comptia.org?code=V4FM6N9SBMR41NKG) ![ITIL v4](https://img.shields.io/badge/ITIL_v4-5CB85C?style=flat) ![PC Pro](https://img.shields.io/badge/PC_Pro_Certified-30363d?style=flat) ![DAU ACQ](https://img.shields.io/badge/DAU_ACQ_1010-30363d?style=flat) |
+| **AI / LLM Security** | ![HTB_COAE](https://img.shields.io/badge/HTB_COAE_(In_Progress)-111927?style=flat&logo=hackthebox&logoColor=9FEF00) |
 
 ---
 
@@ -69,7 +76,7 @@ I am looking to join a Security Operations Center as a SOC Analyst where I can l
 | Degree Program | Institution | Status |
 | :--- | :--- | :--- |
 | **Bachelor of Applied Technology, Cybersecurity** | St. Philip’s College | **GPA 3.7** \| Expected May 2027 |
-| **Associate of Applied Science, IT Cybersecurity Specialist** | St. Philip’s College | **GPA 3.7** \| May 2027 |
+| **Associate of Applied Science, IT Cybersecurity Specialist** | St. Philip’s College | **GPA 3.7** \| Expected May 2027 |
 | **Associate of Applied Science, Computer Information Systems** | San Antonio College | **GPA 3.7** \| December 2023 |
 
 ---
