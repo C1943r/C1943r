@@ -42,12 +42,13 @@ I am looking to join a Security Operations Center as a SOC Analyst where I can l
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Network & Endpoint** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Defender](https://img.shields.io/badge/MS_Defender-00A4EF?style=flat&logo=microsoft&logoColor=white) |
-| **SIEM & Operations** | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white) |
+| **SIEM & Operations** | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white) ![SOF-ELK](https://img.shields.io/badge/SOF--ELK-005571?style=flat&logo=elasticstack&logoColor=white) |
 | **Offensive Security** | ![Metasploit](https://img.shields.io/badge/Metasploit-336699?style=flat&logo=metasploit&logoColor=white) ![Burp_Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white) ![Ettercap](https://img.shields.io/badge/Ettercap-519A39?style=flat&logo=linux&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=flat&logo=nmap&logoColor=white) |
-| **Forensics & Malware** | ![Magnet_Axiom](https://img.shields.io/badge/Magnet_Axiom-0072CE?style=flat) ![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=flat&logo=ghidra&logoColor=white) ![REMnux](https://img.shields.io/badge/REMnux-005A9C?style=flat&logo=linux&logoColor=white) ![Flare_VM](https://img.shields.io/badge/Flare_VM-FF4B4B?style=flat&logo=windows&logoColor=white) |
+| **AI / LLM Security** | ![promptfoo](https://img.shields.io/badge/promptfoo-E5484D?style=flat) ![garak](https://img.shields.io/badge/garak-76B900?style=flat) ![PyRIT](https://img.shields.io/badge/PyRIT-0078D4?style=flat) |
+| **Forensics & Malware** | ![Magnet_Axiom](https://img.shields.io/badge/Magnet_Axiom-0072CE?style=flat) ![Autopsy](https://img.shields.io/badge/Autopsy-2B3A4A?style=flat) ![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=flat&logo=ghidra&logoColor=white) ![REMnux](https://img.shields.io/badge/REMnux-005A9C?style=flat&logo=linux&logoColor=white) ![Flare_VM](https://img.shields.io/badge/Flare_VM-FF4B4B?style=flat&logo=windows&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
 | **Virtualization** | ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) |
 | **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) ![Parrot](https://img.shields.io/badge/Parrot_OS-33CFFF?style=flat&logo=parrot-security&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) |
+| **Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) ![Parrot](https://img.shields.io/badge/Parrot_OS-33CFFF?style=flat&logo=parrot-security&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-8E8E93?style=flat&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) |
 
 ---
 
@@ -66,8 +67,8 @@ I am looking to join a Security Operations Center as a SOC Analyst where I can l
 
 | Degree Program | Institution | Status |
 | :--- | :--- | :--- |
-| **Bachelor of Applied Technology, Cybersecurity** | St. Philip’s College | **GPA 3.7** \| Expected December 2027 |
-| **Associate of Applied Science, IT Cybersecurity Specialist** | St. Philip’s College | **GPA 3.7** \| May 2026 |
+| **Bachelor of Applied Technology, Cybersecurity** | St. Philip’s College | **GPA 3.7** \| Expected May 2027 |
+| **Associate of Applied Science, IT Cybersecurity Specialist** | St. Philip’s College | **GPA 3.7** \| May 2027 |
 | **Associate of Applied Science, Computer Information Systems** | San Antonio College | **GPA 3.7** \| December 2023 |
 
 ---
